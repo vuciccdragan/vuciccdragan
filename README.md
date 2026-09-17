@@ -1,16 +1,18 @@
-## Hi there 👋
+# Dragan Vučić
 
-<!--
-**vuciccdragan/vuciccdragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third year informatics at the Faculty of Organization and Informatics (FOI), Varaždin, Croatia.
+Mostly interested in software engineering and cybersecurity.
 
-Here are some ideas to get you started:
+## Skills I have:
+**Languages:** C++, C#, JavaScript, TypeScript, HTML, CSS
+**Databases:** PostgreSQL
+**Mobile:** React Native, Expo
+**Other:** Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently working on:
+**Guest Manager for Villa BoMaDa** — a React Native mobile app for managing guests across a 7-apartment
+property. It handles reservations, apartment availability, daily housekeeping tasks and
+per-night service schedules.
+
+## Contact
+- Email: vucicdragan23@gmail.com
