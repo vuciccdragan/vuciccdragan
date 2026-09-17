@@ -20,4 +20,4 @@ per-night service schedules.
 
 ## Contact:
 <br>
-**Email:** vucicdragan23@gmail.com
+Email: vucicdragan23@gmail.com
